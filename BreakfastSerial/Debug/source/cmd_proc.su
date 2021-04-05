@@ -1,0 +1,5 @@
+cmd_proc.c:23:6:handle_author	16	static
+cmd_proc.c:30:6:handle_dump	16	static
+cmd_proc.c:48:6:process_command	88	static
+libconfig-arm.h:247:5:__sys_write	24	static
+libconfig-arm.h:241:5:__sys_readc	16	static
